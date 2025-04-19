@@ -9,3 +9,5 @@ transport data, encompassing tasks such as routine route planning, ticket reserv
 performance analysis. By leveraging advanced database technologies and methodologies, 
 we aimed to create a robust solution that meets the complex needs of transport companies
 efficiently.
+
+![ModelTransport](https://github.com/user-attachments/assets/22469000-4619-4b9c-82aa-2f4620023432)
